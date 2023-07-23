@@ -12,4 +12,10 @@ Hardware:
 - Hookup wires
 
   part 2:
-  
+  Turn on the servo motot
+
+  Hardware:
+- Arduino Board
+- Breadboard
+- Servo Motor
+- Hookup wires
