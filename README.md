@@ -16,6 +16,5 @@ Hardware:
 
   Hardware:
 - Arduino Board
-- Breadboard
 - Servo Motor
 - Hookup wires
