@@ -1,6 +1,6 @@
 # Electronics-Engineering-Task2
 part 1 :
-Turn on the DC motor 
+Turn on DC motor 
 
 Hardware:
 - Arduino Board
