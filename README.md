@@ -9,7 +9,7 @@ Hardware:
 - NPN Transistor
 - Diode
 - Resistor
-- Hookup wires
+- Hook-up wires
 
   part 2:
   Turn on the servo motot
@@ -17,4 +17,4 @@ Hardware:
   Hardware:
 - Arduino Board
 - Servo Motor
-- Hookup wires
+- Hook-up wires
