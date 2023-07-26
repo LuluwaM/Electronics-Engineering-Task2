@@ -10,13 +10,14 @@ Hardware:
 - Diode
 - Resistor
 - Hook-up wires
+  
   Circuit:
 
 <img width="776" alt="dc_motor" src="https://github.com/LuluwaM/Electronics-Engineering-Task2/assets/113927014/6f84f57c-743e-44a5-8785-c6a790849f52">
 
 
   part 2:
-  Turn on the servo motot
+  Turn on the servo motor
 
   Hardware:
 - Arduino Board
